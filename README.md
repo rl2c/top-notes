@@ -18,3 +18,9 @@ Repository for keeping notes about the TOP curriculum.
 - Bump video memory to 128MB
 - Disable Hyper-V, [instructions](https://forums.virtualbox.org/viewtopic.php?f=25&t=99390)
 - Add guest additions
+#### Text Editors
+#### Command Line Basics
+#### Setting up Git
+### Git Basics
+#### Introduction to Git
+#### Git Basics
