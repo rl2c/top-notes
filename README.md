@@ -24,3 +24,21 @@ Repository for keeping notes about the TOP curriculum.
 ### Git Basics
 #### Introduction to Git
 #### Git Basics
+### HTML Foundations
+#### Introduction to HTML and CSS
+#### ELements and Tags
+HTML Elements reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
+#### HTML Boilerplate
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML Boilerplate</title>
+  </head>
+  <body>
+  </body>
+</html>
+```
+Shortcut in vscode: `!` (within html file)
+#### Working with Text
