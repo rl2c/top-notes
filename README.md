@@ -42,3 +42,10 @@ HTML Elements reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Refer
 ```
 Shortcut in vscode: `!` (within html file)
 #### Working with Text
+#### Lists
+#### Links and Images
+```html
+<a href="https://www.example.com/about">Text</a>
+target = "_self" (default) OR "_blank"
+rel = "noopener noreferrer"
+```
